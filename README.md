@@ -25,5 +25,5 @@
 
 - 만들고자하는 라이브러리에 대한 소개를 [본 저장소](https://github.com/InnerCircle-ICD3/be-library)의 이슈로 작성합니다.
 - [이슈 템플릿](https://github.com/InnerCircle-ICD3/be-library/blob/main/.github/ISSUE_TEMPLATE/oss-project.md)을 사용해주세요.
-- JWT 토큰 파싱/검증 라이브러리, 패턴 매칭(e.g. [ts-pattern](https://github.com/gvergnaud/ts-pattern)), 날짜 Formatter, 금액 Formatter 등 자유 주제를 선정해주세요.
+- JWT 토큰 파싱/검증 라이브러리, 패턴 매칭(e.g. [ts-pattern](https://github.com/gvergnaud/ts-pattern)), 날짜 Formatter, 금액 Formatter, 봉투 암호화(Envelope Encryption) 등 자유 주제를 선정해주세요.
 - 작성해주신 이슈를 기반으로 리더와 논의 한 후 프로젝트 주제를 확정하고 개발을 진행합니다.
